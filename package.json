@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2"
+  },
+  "name": "expressjs",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon ./app.js localhost 3000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/draklelnn230/express-js.git"
+  },
+  "author": "lan ho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/draklelnn230/express-js/issues"
+  },
+  "homepage": "https://github.com/draklelnn230/express-js#readme",
+  "description": ""
+}
